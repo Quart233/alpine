@@ -1,0 +1,3 @@
+[submodule "aports"]
+	path = aports
+	url = git@gitlab.alpinelinux.org:Quart233/aports.git
